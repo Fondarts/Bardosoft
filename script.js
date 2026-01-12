@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateLangIcon() {
         if (langToggle) {
             if (currentLang === 'es') {
-                langToggle.innerHTML = '<img src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 3 2\'%3E%3Cpath fill=\'%23C8102E\' d=\'M0 0h3v2H0z\'/%3E%3Cpath fill=\'%23FFFFFF\' d=\'M0 0.67h3v0.67H0z\'/%3E%3Cpath fill=\'%2375AADB\' d=\'M0 0h3v0.67H0z\'/%3E%3C/svg%3E" alt="Argentina">';
+                langToggle.innerHTML = '<img src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 3 2\'%3E%3Cpath fill=\'%2375AADB\' d=\'M0 0h3v0.67H0z\'/%3E%3Cpath fill=\'%23FFFFFF\' d=\'M0 0.67h3v0.67H0z\'/%3E%3Cpath fill=\'%2375AADB\' d=\'M0 1.33h3v0.67H0z\'/%3E%3Ccircle cx=\'1.5\' cy=\'1\' r=\'0.3\' fill=\'%23F6B40E\'/%3E%3C/svg%3E" alt="Argentina">';
                 langToggle.title = 'Cambiar a inglés';
             } else {
                 langToggle.innerHTML = '<img src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 60 30\'%3E%3Cpath fill=\'%23B22234\' d=\'M0 0h60v30H0z\'/%3E%3Cpath fill=\'%23FFFFFF\' d=\'M0 0h60v2.31H0zm0 4.62h60v2.31H0zm0 4.62h60v2.31H0zm0 4.62h60v2.31H0zm0 4.62h60v2.31H0zm0 4.62h60v2.31H0zm0 4.62h60v2.31H0z\'/%3E%3Cpath fill=\'%233C3B6E\' d=\'M0 0h24v16.15H0z\'/%3E%3C/svg%3E" alt="USA">';
