@@ -22,36 +22,37 @@
             <h1>Quizlo</h1>
         </div>
 
-        <!-- Carrusel de imágenes -->
-        <div class="carousel-container">
-            <div class="carousel-wrapper">
-                <div class="carousel-slides">
-                    <div class="carousel-slide">
-                        <img src="/images/Quizlo01.png" alt="Quizlo - Pantalla Principal de Configuración">
+        <!-- Layout principal: Carrusel y Descripción lado a lado -->
+        <div class="project-detail-main">
+            <!-- Carrusel de imágenes -->
+            <div class="carousel-container">
+                <div class="carousel-wrapper">
+                    <div class="carousel-slides">
+                        <div class="carousel-slide">
+                            <img src="/images/Quizlo01.png" alt="Quizlo - Pantalla Principal de Configuración">
+                        </div>
+                        <div class="carousel-slide">
+                            <img src="/images/Quizlo02.png" alt="Quizlo - Estadísticas y Leaderboards">
+                        </div>
+                        <div class="carousel-slide">
+                            <img src="/images/Quizlo03.png" alt="Quizlo - Mapa del Reino del Cine">
+                        </div>
+                        <div class="carousel-slide">
+                            <img src="/images/Quizlo04.png" alt="Quizlo - Pantalla de Pregunta">
+                        </div>
                     </div>
-                    <div class="carousel-slide">
-                        <img src="/images/Quizlo02.png" alt="Quizlo - Estadísticas y Leaderboards">
-                    </div>
-                    <div class="carousel-slide">
-                        <img src="/images/Quizlo03.png" alt="Quizlo - Mapa del Reino del Cine">
-                    </div>
-                    <div class="carousel-slide">
-                        <img src="/images/Quizlo04.png" alt="Quizlo - Pantalla de Pregunta">
-                    </div>
+                    <button class="carousel-btn prev">‹</button>
+                    <button class="carousel-btn next">›</button>
                 </div>
-                <button class="carousel-btn prev">‹</button>
-                <button class="carousel-btn next">›</button>
+                <div class="carousel-indicators">
+                    <span class="carousel-indicator active"></span>
+                    <span class="carousel-indicator"></span>
+                    <span class="carousel-indicator"></span>
+                    <span class="carousel-indicator"></span>
+                </div>
             </div>
-            <div class="carousel-indicators">
-                <span class="carousel-indicator active"></span>
-                <span class="carousel-indicator"></span>
-                <span class="carousel-indicator"></span>
-                <span class="carousel-indicator"></span>
-            </div>
-        </div>
 
-        <!-- Descripción -->
-        <div class="project-content">
+            <!-- Descripción -->
             <div class="project-description">
                 <h2>Descripción</h2>
                 <p>
@@ -63,7 +64,10 @@
                     entretenida y dinámica.
                 </p>
             </div>
+        </div>
 
+        <!-- Contenido adicional: Características y Demo -->
+        <div class="project-content">
             <!-- Características -->
             <div class="project-features">
                 <h2>Características</h2>
