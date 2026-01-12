@@ -20,6 +20,13 @@ const translations = {
         viewDemo: "Ver Demo",
         soon: "Pronto en AE Script",
         
+        // Short descriptions for index page
+        horariosShortDesc: "Web app para la gestion eficiente de horarios.",
+        quizloShortDesc: "Juego de preguntas y respuestas, con creacion de creacion de cuestionarios y juego online.",
+        mundialShortDesc: "juega con tus amigos y ve quien acierta más resultados en el proximo mundial de futbol.",
+        facturacionShortDesc: "sistema de trackeo de gastos mediante ocr de invoices y generador de facturas electronicas.",
+        truedupShortDesc: "Genera instancias unicas de comps duplicados ahorrando tiempo.",
+        
         // Quizlo
         quizloTitle: "Quizlo",
         quizloDescription1: "Quizlo es una aplicación de preguntas y respuestas diseñada para transformar el aprendizaje en una experiencia interactiva, divertida y muy efectiva. Pensada para aprender y jugar, facilita la creación, el intercambio y la participación en cuestionarios totalmente personalizados.",
@@ -98,6 +105,13 @@ const translations = {
         tryIt: "Try it!",
         viewDemo: "View Demo",
         soon: "Coming soon in AE Script",
+        
+        // Short descriptions for index page
+        horariosShortDesc: "Web app for efficient schedule management.",
+        quizloShortDesc: "Question and answer game, with quiz creation and online play.",
+        mundialShortDesc: "Play with your friends and see who predicts the most results in the upcoming World Cup.",
+        facturacionShortDesc: "Expense tracking system through invoice OCR and electronic invoice generator.",
+        truedupShortDesc: "Generate unique instances of duplicated comps saving time.",
         
         // Quizlo
         quizloTitle: "Quizlo",
