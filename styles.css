@@ -307,7 +307,7 @@ footer p {
 /* Carousel */
 .carousel-container {
     position: relative;
-    max-width: 1200px;
+    max-width: 600px;
     margin: 0 auto 60px;
     border-radius: 20px;
     overflow: hidden;
