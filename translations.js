@@ -22,7 +22,7 @@ const translations = {
         
         // Short descriptions for index page
         horariosShortDesc: "Web app para la gestion eficiente de horarios.",
-        quizloShortDesc: "Juego de preguntas y respuestas, con creacion de creacion de cuestionarios y juego online.",
+        quizloShortDesc: "Juego de preguntas y respuestas, con creacion de cuestionarios y juego online.",
         mundialShortDesc: "juega con tus amigos y ve quien acierta más resultados en el proximo mundial de futbol.",
         facturacionShortDesc: "sistema de trackeo de gastos mediante ocr de invoices y generador de facturas electronicas.",
         truedupShortDesc: "Genera instancias unicas de comps duplicados ahorrando tiempo.",
