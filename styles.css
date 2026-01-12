@@ -409,6 +409,22 @@ footer p {
     margin-bottom: 0;
 }
 
+.carousel-container.single-image .carousel-wrapper {
+    aspect-ratio: auto;
+}
+
+.carousel-container.single-image .carousel-slide {
+    min-width: 100%;
+    width: 100%;
+}
+
+.carousel-container.single-image .carousel-slide img {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+}
+
 .carousel-wrapper {
     position: relative;
     width: 100%;

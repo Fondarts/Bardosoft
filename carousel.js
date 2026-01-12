@@ -7,9 +7,24 @@ document.addEventListener('DOMContentLoaded', function() {
     const indicators = document.querySelectorAll('.carousel-indicator');
     const prevBtn = document.querySelector('.carousel-btn.prev');
     const nextBtn = document.querySelector('.carousel-btn.next');
+    const carouselContainer = document.querySelector('.carousel-container');
     
     let currentSlide = 0;
     const totalSlides = slides.length;
+
+    // Si solo hay una imagen, ocultar controles del carrusel
+    if (totalSlides <= 1) {
+        if (prevBtn) prevBtn.style.display = 'none';
+        if (nextBtn) nextBtn.style.display = 'none';
+        if (indicators.length > 0) {
+            const indicatorsContainer = document.querySelector('.carousel-indicators');
+            if (indicatorsContainer) indicatorsContainer.style.display = 'none';
+        }
+        if (carouselContainer) {
+            carouselContainer.classList.add('single-image');
+        }
+        return; // No inicializar el carrusel si solo hay una imagen
+    }
 
     function updateCarousel() {
         carousel.querySelector('.carousel-slides').style.transform = `translateX(-${currentSlide * 100}%)`;
