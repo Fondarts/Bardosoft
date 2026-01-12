@@ -77,7 +77,7 @@ const translations = {
         
         // Common
         description: "Descripción",
-        footer: "© 2024 Bardosoft. Hecho con ❤️"
+        footer: "© 2024 Bardosoft"
     },
     en: {
         // Header
@@ -156,6 +156,6 @@ const translations = {
         
         // Common
         description: "Description",
-        footer: "© 2024 Bardosoft. Made with ❤️"
+        footer: "© 2024 Bardosoft"
     }
 };
