@@ -481,6 +481,22 @@ footer p {
     position: relative;
     overflow: hidden;
     height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-demo-inline {
+    margin-top: 24px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border-color);
+}
+
+.project-demo-inline .btn {
+    width: 100%;
+    padding: 14px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
 }
 
 .project-description::before {
