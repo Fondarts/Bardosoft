@@ -55,6 +55,39 @@ Edita las variables CSS en `styles.css`:
 
 Puedes cambiar los emojis por iconos de Font Awesome, Material Icons, o cualquier otra librería de iconos.
 
+## Despliegue en Vercel
+
+Este proyecto está configurado para desplegarse fácilmente en Vercel.
+
+### Pasos para desplegar:
+
+1. **Sube el proyecto a GitHub:**
+   ```bash
+   git add .
+   git commit -m "Initial commit"
+   git remote add origin https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git push -u origin master
+   ```
+
+2. **Conecta con Vercel:**
+   - Ve a [vercel.com](https://vercel.com)
+   - Inicia sesión con tu cuenta de GitHub
+   - Haz clic en "New Project"
+   - Importa tu repositorio de GitHub
+   - Vercel detectará automáticamente la configuración y desplegará el proyecto
+
+3. **¡Listo!** Tu sitio estará disponible en una URL de Vercel
+
+El archivo `vercel.json` ya está configurado para servir los archivos estáticos correctamente.
+
+## Proyectos incluidos
+
+- **Horarios**: Sistema de administración de horarios
+- **Quizlo**: Aplicación interactiva de preguntas y respuestas
+- **Mundial 2026**: Fixture interactivo del Mundial 2026
+- **TrueDup**: Herramienta para encontrar archivos duplicados
+- **Facturación**: Sistema de gestión de facturas y facturación electrónica
+
 ## Licencia
 
 Libre para usar y modificar.
