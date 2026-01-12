@@ -12,9 +12,11 @@
 <body>
     <header>
         <div class="container">
-            <h1 class="logo">
-                <span class="logo-bardo">Bardo</span><span class="logo-soft">soft</span>
-            </h1>
+            <a href="index.html" class="logo-link">
+                <h1 class="logo">
+                    <span class="logo-bardo">Bardo</span><span class="logo-soft">soft</span>
+                </h1>
+            </a>
             <div class="header-controls">
                 <button class="lang-toggle" id="langToggle" title="Cambiar idioma">
                     <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3Cpath fill='%2375AADB' d='M0 0h3v0.67H0z'/%3E%3Cpath fill='%23FFFFFF' d='M0 0.67h3v0.67H0z'/%3E%3Cpath fill='%2375AADB' d='M0 1.33h3v0.67H0z'/%3E%3Ccircle cx='1.5' cy='1' r='0.3' fill='%23F6B40E'/%3E%3C/svg%3E" alt="Argentina">
@@ -30,7 +32,7 @@
 
     <main class="container project-detail">
         <div class="project-detail-header">
-            <a href="index.html" class="back-link">← Volver a proyectos</a>
+            <a href="index.html" class="back-link" data-i18n="backToProjects">← Volver a proyectos</a>
             <h1>Horarios</h1>
         </div>
 
@@ -54,7 +56,7 @@
 
             <!-- Descripción -->
             <div class="project-description">
-                <h2>Descripción</h2>
+                <h2 data-i18n="description">Descripción</h2>
                 <p>
                     La herramienta web esencial para la gestión eficiente y organizada de los horarios de tu equipo.
                 </p>
@@ -66,7 +68,7 @@
                 </p>
                 <!-- Link a Demo -->
                 <div class="project-demo-inline">
-                    <a href="https://sistema-horarios-xi.vercel.app/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Demo</a>
+                    <a href="https://sistema-horarios-xi.vercel.app/" target="_blank" rel="noopener noreferrer" class="btn btn-primary" data-i18n="viewDemo">Ver Demo</a>
                 </div>
             </div>
         </div>
@@ -75,7 +77,7 @@
         <div class="project-content">
             <!-- Características -->
             <div class="project-features">
-                <h2>Características</h2>
+                <h2 data-i18n="quizloFeatures">Características</h2>
                 <ul>
                     <li>Gestión completa de horarios</li>
                     <li>Barras Gantt para una mejor visualización</li>
@@ -91,11 +93,13 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2024 Bardosoft. Hecho con ❤️</p>
+            <p data-i18n="footer">&copy; 2024 Bardosoft. Hecho con ❤️</p>
         </div>
     </footer>
 
+    <script src="translations.js"></script>
     <script src="carousel.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
 

@@ -110,12 +110,28 @@ header .container {
     height: 18px;
 }
 
+.logo-link {
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    cursor: pointer;
+}
+
+.logo-link:hover .logo-bardo,
+.logo-link:hover .logo-soft {
+    opacity: 0.8;
+    transition: opacity 0.2s ease;
+}
+
 header h1.logo {
     font-size: 2rem;
     font-weight: 700;
     margin: 0;
     display: inline-block;
     line-height: 1;
+    pointer-events: none;
 }
 
 .logo-bardo {
