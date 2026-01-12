@@ -36,21 +36,37 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    padding: 40px 0;
-    box-shadow: 0 4px 6px var(--shadow);
+    background: var(--surface);
+    padding: 20px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid var(--border-color);
 }
 
 header .container {
     text-align: left;
 }
 
-header h1 {
-    font-size: 3rem;
+header h1.logo {
+    font-size: 2rem;
     font-weight: 700;
     margin: 0;
-    color: white;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    line-height: 1;
+}
+
+.logo-bardo {
+    color: var(--text-primary);
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.logo-soft {
+    color: #ef4444;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-left: -2px;
+    letter-spacing: -0.5px;
 }
 
 .subtitle {
