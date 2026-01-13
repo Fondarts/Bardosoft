@@ -62,8 +62,9 @@ const translations = {
         mundialFeature3: "Crea tus propios torneos internos con tus amigos y compite por el primer puesto",
         mundialFeature4: "Calendario completo de partidos",
         
-        // TrueDup
-        truedupTitle: "TrueDup",
+        // Unique Instances
+        uniqueInstancesTitle: "Unique Instances",
+        truedupTitle: "Unique Instances",
         truedupDescription: "Es una herramienta para generar instancias únicas de comps duplicados. Para poder modificarlos sin que el resto se modifique.",
         truedupFeature1: "Genera instancias únicas de comps duplicados",
         truedupFeature2: "Modifica comps sin afectar los originales",
@@ -148,8 +149,9 @@ const translations = {
         mundialFeature3: "Create your own internal tournaments with your friends and compete for first place",
         mundialFeature4: "Complete match calendar",
         
-        // TrueDup
-        truedupTitle: "TrueDup",
+        // Unique Instances
+        uniqueInstancesTitle: "Unique Instances",
+        truedupTitle: "Unique Instances",
         truedupDescription: "It is a tool to generate unique instances of duplicated comps. To be able to modify them without the rest being modified.",
         truedupFeature1: "Generates unique instances of duplicated comps",
         truedupFeature2: "Modify comps without affecting originals",
