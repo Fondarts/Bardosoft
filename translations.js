@@ -41,8 +41,9 @@ const translations = {
         quizloFeature6: "Modo aventura (en 2026 Q1!)",
         quizloFeature7: "Crea tus propios quizes y compártelos con amigos",
         
-        // Horarios
-        horariosTitle: "Horarios",
+        // Tempo
+        tempoTitle: "Tempo",
+        horariosTitle: "Tempo",
         horariosDescription1: "La herramienta web esencial para la gestión eficiente y organizada de los horarios de tu equipo.",
         horariosDescription2: "Utiliza su intuitiva y moderna aplicación web para crear, modificar y publicar horarios de forma rápida y sin complicaciones. Tus empleados podrán consultar sus horarios en la aplicación móvil, donde recibirán notificaciones sobre nuevas publicaciones, cambios, y tendrán la posibilidad de solicitar modificaciones, vacaciones o avisar ausencias.",
         horariosDescription3: "Es la solución ideal para cualquier establecimiento comercial que requiera un control exacto y detallado de sus operaciones diarias y semanales.",
