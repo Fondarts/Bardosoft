@@ -13,6 +13,7 @@ const translations = {
         // Sections
         apps: "Apps",
         scripts: "Scripts",
+        afterEffectsScripts: "After Effects Scripts",
         
         // Buttons
         viewProject: "Ver Proyecto",
