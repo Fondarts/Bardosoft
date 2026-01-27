@@ -22,7 +22,7 @@ const translations = {
         soon: "Pronto en AE Script",
         
         // Short descriptions for index page
-        horariosShortDesc: "Web app para la gestion eficiente de horarios.",
+        horariosShortDesc: "Programación integral de personal para retail moderno.",
         quizloShortDesc: "Juego de preguntas y respuestas, con creacion de cuestionarios y juego online.",
         mundialShortDesc: "juega con tus amigos y ve quien acierta más resultados en el proximo mundial de futbol.",
         facturacionShortDesc: "sistema de trackeo de gastos mediante ocr de invoices y generador de facturas electronicas.",
@@ -44,9 +44,8 @@ const translations = {
         // Tempo
         tempoTitle: "Tempo",
         horariosTitle: "Tempo",
-        horariosDescription1: "La herramienta web esencial para la gestión eficiente y organizada de los horarios de tu equipo.",
-        horariosDescription2: "Utiliza su intuitiva y moderna aplicación web para crear, modificar y publicar horarios de forma rápida y sin complicaciones. Tus empleados podrán consultar sus horarios en la aplicación móvil, donde recibirán notificaciones sobre nuevas publicaciones, cambios, y tendrán la posibilidad de solicitar modificaciones, vacaciones o avisar ausencias.",
-        horariosDescription3: "Es la solución ideal para cualquier establecimiento comercial que requiera un control exacto y detallado de sus operaciones diarias y semanales.",
+        horariosDescription1: "Programación integral de personal para retail moderno.",
+        horariosDescription2: "Planifica turnos, gestiona personal, rastrea tiempo con check-ins de geolocalización y maneja vacaciones y ausencias, todo desde una plataforma intuitiva. Construida para equipos de retail multi-tienda, con insights en tiempo real, soporte multiidioma y control total sobre tu fuerza laboral.",
         horariosFeature1: "Gestión completa de horarios",
         horariosFeature2: "Barras Gantt para una mejor visualización",
         horariosFeature3: "Avisos de conflictos en la generación de horarios",
@@ -111,7 +110,7 @@ const translations = {
         soon: "Coming soon in AE Script",
         
         // Short descriptions for index page
-        horariosShortDesc: "Web app for efficient schedule management.",
+        horariosShortDesc: "All-in-one workforce scheduling for modern retail.",
         quizloShortDesc: "Question and answer game, with quiz creation and online play.",
         mundialShortDesc: "Play with your friends and see who predicts the most results in the upcoming World Cup.",
         facturacionShortDesc: "Expense tracking system through invoice OCR and electronic invoice generator.",
