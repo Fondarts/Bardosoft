@@ -129,11 +129,11 @@ const translations = {
         quizloFeature6: "Adventure mode (in 2026 Q1!)",
         quizloFeature7: "Create your own quizzes and share them with friends",
         
-        // Horarios
-        horariosTitle: "Schedules",
-        horariosDescription1: "The essential web tool for efficient and organized team schedule management.",
-        horariosDescription2: "Use its intuitive and modern web application to create, modify, and publish schedules quickly and easily. Your employees can check their schedules in the mobile app, where they will receive notifications about new publications, changes, and will be able to request modifications, vacations, or report absences.",
-        horariosDescription3: "It is the ideal solution for any commercial establishment that requires exact and detailed control of its daily and weekly operations.",
+        // Tempo
+        tempoTitle: "Tempo",
+        horariosTitle: "Tempo",
+        horariosDescription1: "All-in-one workforce scheduling for modern retail.",
+        horariosDescription2: "Plan shifts, manage staff, track time with geolocation check-ins, and handle vacations and absences — all from one intuitive platform. Built for multi-store retail teams, with real-time insights, multilingual support, and total control over your workforce.",
         horariosFeature1: "Complete schedule management",
         horariosFeature2: "Gantt charts for better visualization",
         horariosFeature3: "Conflict warnings in schedule generation",
