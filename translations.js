@@ -55,7 +55,7 @@ const translations = {
         horariosFeature7: "App para Android (iOS en desarrollo)",
         
         // Mundial 2026
-        mundialTitle: "Mundial 2026",
+        mundialTitle: "Prode Mundial 2026",
         mundialDescription1: "Predice. Compite. Domina el Mundial.",
         mundialDescription2: "Únete a torneos privados con amigos o competencias abiertas para demostrar quién realmente conoce el fútbol. Predice resultados de partidos, sigue el Mundial 2026 en vivo y escala los rankings globales acertando más predicciones.",
         mundialFeature1: "Resultados en tiempo real",
@@ -72,7 +72,7 @@ const translations = {
         truedupFeature3: "Herramienta para After Effects",
         
         // Facturación
-        facturacionTitle: "Facturación",
+        facturacionTitle: "Invoice Ctrl",
         facturacionDescription1: "Seguimiento inteligente de gastos, impulsado por OCR.",
         facturacionDescription2: "Escanea facturas, extrae datos automáticamente y mantén el control total de tus gastos en un solo lugar. Genera tus propias facturas, rastrea gastos con estadísticas claras y accede a todo en línea con almacenamiento seguro en la nube — con una app para Android actualmente en desarrollo.",
         facturacionFeature1: "Creación y gestión de facturas electrónicas",
@@ -143,7 +143,7 @@ const translations = {
         horariosFeature7: "Android app (iOS in development)",
         
         // Mundial 2026
-        mundialTitle: "World Cup 2026",
+        mundialTitle: "World Cup 2026 Pool",
         mundialDescription1: "Predict. Compete. Rule the World Cup.",
         mundialDescription2: "Join private tournaments with friends or open competitions to prove who really knows football. Predict match results, follow the 2026 World Cup live, and climb the global rankings by getting more predictions right.",
         mundialFeature1: "Real-time results",
@@ -160,7 +160,7 @@ const translations = {
         truedupFeature3: "Tool for After Effects",
         
         // Facturación
-        facturacionTitle: "Invoicing",
+        facturacionTitle: "Invoice Ctrl",
         facturacionDescription1: "Smart expense tracking, powered by OCR.",
         facturacionDescription2: "Scan invoices, automatically extract data, and keep full control of your expenses in one place. Generate your own invoices, track spending with clear statistics, and access everything online with secure cloud storage — with an Android app currently in development.",
         facturacionFeature1: "Creation and management of electronic invoices",
