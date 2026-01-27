@@ -24,7 +24,7 @@ const translations = {
         // Short descriptions for index page
         horariosShortDesc: "Programación integral de personal para retail moderno.",
         quizloShortDesc: "Un juego de trivia de ritmo rápido diseñado para desafiarte.",
-        mundialShortDesc: "juega con tus amigos y ve quien acierta más resultados en el proximo mundial de futbol.",
+        mundialShortDesc: "Predice. Compite. Domina el Mundial.",
         facturacionShortDesc: "sistema de trackeo de gastos mediante ocr de invoices y generador de facturas electronicas.",
         truedupShortDesc: "Genera instancias unicas de comps duplicados ahorrando tiempo.",
         
@@ -56,8 +56,8 @@ const translations = {
         
         // Mundial 2026
         mundialTitle: "Mundial 2026",
-        mundialDescription1: "\"Mundial 2026\" es la aplicación indispensable para divertirse con amigos acertando los resultados de la próxima Copa del Mundo 2026. Es el compañero ideal para los aficionados al fútbol que buscan un toque de competencia durante el torneo, ofreciendo todo lo necesario para desafiar a sus contactos.",
-        mundialDescription2: "Chequea los rankings mundiales de pronosticadores y mide tu habilidad.",
+        mundialDescription1: "Predice. Compite. Domina el Mundial.",
+        mundialDescription2: "Únete a torneos privados con amigos o competencias abiertas para demostrar quién realmente conoce el fútbol. Predice resultados de partidos, sigue el Mundial 2026 en vivo y escala los rankings globales acertando más predicciones.",
         mundialFeature1: "Resultados en tiempo real",
         mundialFeature2: "Simulación de cruces",
         mundialFeature3: "Crea tus propios torneos internos con tus amigos y compite por el primer puesto",
@@ -112,7 +112,7 @@ const translations = {
         // Short descriptions for index page
         horariosShortDesc: "All-in-one workforce scheduling for modern retail.",
         quizloShortDesc: "A fast-paced trivia game built to challenge you.",
-        mundialShortDesc: "Play with your friends and see who predicts the most results in the upcoming World Cup.",
+        mundialShortDesc: "Predict. Compete. Rule the World Cup.",
         facturacionShortDesc: "Expense tracking system through invoice OCR and electronic invoice generator.",
         truedupShortDesc: "Generate unique instances of duplicated comps saving time.",
         
@@ -144,8 +144,8 @@ const translations = {
         
         // Mundial 2026
         mundialTitle: "World Cup 2026",
-        mundialDescription1: "\"World Cup 2026\" is the essential application to have fun with friends by predicting the results of the upcoming 2026 World Cup. It is the ideal companion for football fans looking for a touch of competition during the tournament, offering everything needed to challenge your contacts.",
-        mundialDescription2: "Check the world rankings of predictors and measure your skill.",
+        mundialDescription1: "Predict. Compete. Rule the World Cup.",
+        mundialDescription2: "Join private tournaments with friends or open competitions to prove who really knows football. Predict match results, follow the 2026 World Cup live, and climb the global rankings by getting more predictions right.",
         mundialFeature1: "Real-time results",
         mundialFeature2: "Match simulation",
         mundialFeature3: "Create your own internal tournaments with your friends and compete for first place",
