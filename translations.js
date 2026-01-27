@@ -23,15 +23,15 @@ const translations = {
         
         // Short descriptions for index page
         horariosShortDesc: "Programación integral de personal para retail moderno.",
-        quizloShortDesc: "Juego de preguntas y respuestas, con creacion de cuestionarios y juego online.",
+        quizloShortDesc: "Un juego de trivia de ritmo rápido diseñado para desafiarte.",
         mundialShortDesc: "juega con tus amigos y ve quien acierta más resultados en el proximo mundial de futbol.",
         facturacionShortDesc: "sistema de trackeo de gastos mediante ocr de invoices y generador de facturas electronicas.",
         truedupShortDesc: "Genera instancias unicas de comps duplicados ahorrando tiempo.",
         
         // Quizlo
         quizloTitle: "Quizlo",
-        quizloDescription1: "Quizlo es una aplicación de preguntas y respuestas diseñada para transformar el aprendizaje en una experiencia interactiva, divertida y muy efectiva. Pensada para aprender y jugar, facilita la creación, el intercambio y la participación en cuestionarios totalmente personalizados.",
-        quizloDescription2: "Esta herramienta dinámica te permite no solo evaluar tus conocimientos, sino también desafiar a tus amigos compitiendo online y optimizar tu proceso de aprendizaje de una forma entretenida.",
+        quizloDescription1: "Un juego de trivia de ritmo rápido diseñado para desafiarte.",
+        quizloDescription2: "Juega solo, contra el reloj, o compite online con amigos. Escala los rankings globales y de amigos, desbloquea logros y crea tus propios cuestionarios. Explora el Modo Aventura progresando a través de desafíos en múltiples niveles de dificultad.",
         quizloFeatures: "Características",
         quizloFeature1: "Juega offline respondiendo preguntas y/o compitiendo en timetrials",
         quizloFeature2: "Cientos de categorías para elegir",
@@ -111,15 +111,15 @@ const translations = {
         
         // Short descriptions for index page
         horariosShortDesc: "All-in-one workforce scheduling for modern retail.",
-        quizloShortDesc: "Question and answer game, with quiz creation and online play.",
+        quizloShortDesc: "A fast-paced trivia game built to challenge you.",
         mundialShortDesc: "Play with your friends and see who predicts the most results in the upcoming World Cup.",
         facturacionShortDesc: "Expense tracking system through invoice OCR and electronic invoice generator.",
         truedupShortDesc: "Generate unique instances of duplicated comps saving time.",
         
         // Quizlo
         quizloTitle: "Quizlo",
-        quizloDescription1: "Quizlo is a question and answer application designed to transform learning into an interactive, fun, and highly effective experience. Designed to learn and play, it facilitates the creation, sharing, and participation in fully customized quizzes.",
-        quizloDescription2: "This dynamic tool allows you not only to test your knowledge, but also to challenge your friends by competing online and optimize your learning process in an entertaining way.",
+        quizloDescription1: "A fast-paced trivia game built to challenge you.",
+        quizloDescription2: "Play solo, against the clock, or compete online with friends. Climb global and friends leaderboards, unlock achievements, and create your own quizzes. Explore Adventure Mode by progressing through challenges across multiple difficulty levels.",
         quizloFeatures: "Features",
         quizloFeature1: "Play offline answering questions and/or competing in timetrials",
         quizloFeature2: "Hundreds of categories to choose from",
