@@ -84,6 +84,18 @@ const translations = {
         facturacionFeature7: "Dashboard con métricas clave",
         facturacionFeature8: "Cumplimiento normativo de facturación electrónica",
         
+        // Instagram Text Generator
+        igTextTitle: "Instagram Text Generator",
+        igTextShortDesc: "Crea texto estilizado para Instagram con múltiples fuentes, colores y efectos.",
+        igTextDescription1: "Instagram Text Generator es una herramienta web que te permite crear texto estilizado para tus publicaciones de Instagram.",
+        igTextDescription2: "Personaliza tu texto con múltiples estilos de fuente, colores, efectos, emojis y más. Descarga tus creaciones como imágenes PNG listas para usar en Instagram.",
+        igTextFeature1: "Múltiples estilos de fuente (Clásico, Moderno, Neon, Typewriter, etc.)",
+        igTextFeature2: "Personalización completa de colores y efectos",
+        igTextFeature3: "Soporte para emojis y fuentes personalizadas",
+        igTextFeature4: "Zonas seguras para Instagram (Organic y Paid)",
+        igTextFeature5: "Descarga como PNG de alta calidad",
+        igTextFeature6: "Vista previa en tiempo real",
+        
         // Common
         description: "Descripción",
         footer: "© 2026 Bardosoft"
@@ -171,6 +183,18 @@ const translations = {
         facturacionFeature6: "Pending payment reminders",
         facturacionFeature7: "Dashboard with key metrics",
         facturacionFeature8: "Electronic invoicing regulatory compliance",
+        
+        // Instagram Text Generator
+        igTextTitle: "Instagram Text Generator",
+        igTextShortDesc: "Create styled text for Instagram with multiple fonts, colors, and effects.",
+        igTextDescription1: "Instagram Text Generator is a web tool that allows you to create styled text for your Instagram posts.",
+        igTextDescription2: "Customize your text with multiple font styles, colors, effects, emojis, and more. Download your creations as PNG images ready to use on Instagram.",
+        igTextFeature1: "Multiple font styles (Classic, Modern, Neon, Typewriter, etc.)",
+        igTextFeature2: "Full color and effects customization",
+        igTextFeature3: "Emoji support and custom fonts",
+        igTextFeature4: "Instagram safe zones (Organic and Paid)",
+        igTextFeature5: "High-quality PNG download",
+        igTextFeature6: "Real-time preview",
         
         // Common
         description: "Description",

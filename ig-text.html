@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Text Generator - Bardosoft</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html" class="logo-link">
+                <h1 class="logo">
+                    <span class="logo-bardo">Bardo</span><span class="logo-soft">soft</span>
+                </h1>
+            </a>
+            <div class="header-controls">
+                <button class="lang-toggle" id="langToggle" title="Cambiar idioma">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3Cpath fill='%2375AADB' d='M0 0h3v0.67H0z'/%3E%3Cpath fill='%23FFFFFF' d='M0 0.67h3v0.67H0z'/%3E%3Cpath fill='%2375AADB' d='M0 1.33h3v0.67H0z'/%3E%3Ccircle cx='1.5' cy='1' r='0.3' fill='%23F6B40E'/%3E%3C/svg%3E" alt="Argentina">
+                </button>
+                <button class="theme-toggle" id="themeToggle" title="Cambiar tema">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container project-detail">
+        <div class="project-detail-header">
+            <a href="index.html" class="back-link" data-i18n="backToProjects">← Volver a proyectos</a>
+            <h1 data-i18n="igTextTitle">Instagram Text Generator</h1>
+        </div>
+
+        <!-- Layout principal: Carrusel y Descripción lado a lado -->
+        <div class="project-detail-main">
+            <!-- Carrusel de imágenes -->
+            <div class="carousel-container">
+                <div class="carousel-wrapper">
+                    <div class="carousel-slides">
+                        <div class="carousel-slide">
+                            <img src="/images/IG.png" alt="Instagram Text Generator Screenshot">
+                        </div>
+                    </div>
+                    <button class="carousel-btn prev">‹</button>
+                    <button class="carousel-btn next">›</button>
+                </div>
+                <div class="carousel-indicators">
+                    <span class="carousel-indicator active"></span>
+                </div>
+            </div>
+
+            <!-- Descripción -->
+            <div class="project-description">
+                <h2 data-i18n="description">Descripción</h2>
+                <p data-i18n="igTextDescription1">
+                    Instagram Text Generator es una herramienta web que te permite crear texto estilizado para tus publicaciones de Instagram.
+                </p>
+                <p data-i18n="igTextDescription2">
+                    Personaliza tu texto con múltiples estilos de fuente, colores, efectos, emojis y más. Descarga tus creaciones como imágenes PNG listas para usar en Instagram.
+                </p>
+                <!-- Link a Demo -->
+                <div class="project-demo-inline">
+                    <a href="https://ig-text.vercel.app/" target="_blank" rel="noopener noreferrer" class="btn btn-primary" data-i18n="tryIt">¡Pruébala!</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Contenido adicional: Características -->
+        <div class="project-content">
+            <!-- Características -->
+            <div class="project-features">
+                <h2 data-i18n="quizloFeatures">Características</h2>
+                <ul>
+                    <li data-i18n="igTextFeature1">Múltiples estilos de fuente (Clásico, Moderno, Neon, Typewriter, etc.)</li>
+                    <li data-i18n="igTextFeature2">Personalización completa de colores y efectos</li>
+                    <li data-i18n="igTextFeature3">Soporte para emojis y fuentes personalizadas</li>
+                    <li data-i18n="igTextFeature4">Zonas seguras para Instagram (Organic y Paid)</li>
+                    <li data-i18n="igTextFeature5">Descarga como PNG de alta calidad</li>
+                    <li data-i18n="igTextFeature6">Vista previa en tiempo real</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p data-i18n="footer">&copy; 2026 Bardosoft</p>
+        </div>
+    </footer>
+
+    <script src="translations.js"></script>
+    <script src="carousel.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
