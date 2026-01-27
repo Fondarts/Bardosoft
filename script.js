@@ -100,7 +100,8 @@ document.addEventListener('DOMContentLoaded', function() {
     function updatePageContent(pageName, lang, t) {
         // Update descriptions and features based on page
         if (pageName === 'quizlo' || pageName === 'horarios' || pageName === 'mundial2026' || pageName === 'truedup' || pageName === 'facturacion' || pageName === 'ig-text') {
-            const prefix = pageName === 'mundial2026' ? 'mundial' : pageName;
+            let prefix = pageName === 'mundial2026' ? 'mundial' : pageName;
+            if (pageName === 'ig-text') prefix = 'igText';
             
             // Update description paragraphs
             const descParagraphs = document.querySelectorAll('.project-description p');
