@@ -25,7 +25,7 @@ const translations = {
         horariosShortDesc: "Programación integral de personal para retail moderno.",
         quizloShortDesc: "Un juego de trivia de ritmo rápido diseñado para desafiarte.",
         mundialShortDesc: "Predice. Compite. Domina el Mundial.",
-        facturacionShortDesc: "sistema de trackeo de gastos mediante ocr de invoices y generador de facturas electronicas.",
+        facturacionShortDesc: "Seguimiento inteligente de gastos, impulsado por OCR.",
         truedupShortDesc: "Genera instancias unicas de comps duplicados ahorrando tiempo.",
         
         // Quizlo
@@ -73,8 +73,8 @@ const translations = {
         
         // Facturación
         facturacionTitle: "Facturación",
-        facturacionDescription1: "Facturación es una aplicación completa para la gestión de facturas y facturación electrónica. Diseñada para empresas y profesionales independientes, permite crear, gestionar y enviar facturas de manera eficiente y profesional.",
-        facturacionDescription2: "Con Facturación puedes llevar un control completo de tus ingresos, generar reportes financieros, gestionar clientes y productos, y cumplir con todas las normativas de facturación electrónica.",
+        facturacionDescription1: "Seguimiento inteligente de gastos, impulsado por OCR.",
+        facturacionDescription2: "Escanea facturas, extrae datos automáticamente y mantén el control total de tus gastos en un solo lugar. Genera tus propias facturas, rastrea gastos con estadísticas claras y accede a todo en línea con almacenamiento seguro en la nube — con una app para Android actualmente en desarrollo.",
         facturacionFeature1: "Creación y gestión de facturas electrónicas",
         facturacionFeature2: "Gestión completa de clientes y productos",
         facturacionFeature3: "Reportes financieros y estadísticas",
@@ -113,7 +113,7 @@ const translations = {
         horariosShortDesc: "All-in-one workforce scheduling for modern retail.",
         quizloShortDesc: "A fast-paced trivia game built to challenge you.",
         mundialShortDesc: "Predict. Compete. Rule the World Cup.",
-        facturacionShortDesc: "Expense tracking system through invoice OCR and electronic invoice generator.",
+        facturacionShortDesc: "Smart expense tracking, powered by OCR.",
         truedupShortDesc: "Generate unique instances of duplicated comps saving time.",
         
         // Quizlo
@@ -161,8 +161,8 @@ const translations = {
         
         // Facturación
         facturacionTitle: "Invoicing",
-        facturacionDescription1: "Invoicing is a complete application for invoice management and electronic invoicing. Designed for companies and independent professionals, it allows you to create, manage, and send invoices efficiently and professionally.",
-        facturacionDescription2: "With Invoicing you can have complete control of your income, generate financial reports, manage customers and products, and comply with all electronic invoicing regulations.",
+        facturacionDescription1: "Smart expense tracking, powered by OCR.",
+        facturacionDescription2: "Scan invoices, automatically extract data, and keep full control of your expenses in one place. Generate your own invoices, track spending with clear statistics, and access everything online with secure cloud storage — with an Android app currently in development.",
         facturacionFeature1: "Creation and management of electronic invoices",
         facturacionFeature2: "Complete customer and product management",
         facturacionFeature3: "Financial reports and statistics",
