@@ -31,7 +31,7 @@ const translations = {
         // Quizlo
         quizloTitle: "Quizlo",
         quizloDescription1: "Un juego de trivia de ritmo rápido diseñado para desafiarte.",
-        quizloDescription2: "Juega solo, contra el reloj, o compite online con amigos. Escala los rankings globales y de amigos, desbloquea logros y crea tus propios cuestionarios. Explora el Modo Aventura progresando a través de desafíos en múltiples niveles de dificultad.",
+        quizloDescription2: "Juega solo, contra el reloj, o compite online con amigos. Escala los rankings globales y de amigos, desbloquea logros y crea tus propios cuestionarios. Explora el Modo Aventura progresando a través de desafíos en múltiples niveles de dificultad. App para Android en desarrollo.",
         quizloFeatures: "Características",
         quizloFeature1: "Juega offline respondiendo preguntas y/o compitiendo en timetrials",
         quizloFeature2: "Cientos de categorías para elegir",
@@ -131,7 +131,7 @@ const translations = {
         // Quizlo
         quizloTitle: "Quizlo",
         quizloDescription1: "A fast-paced trivia game built to challenge you.",
-        quizloDescription2: "Play solo, against the clock, or compete online with friends. Climb global and friends leaderboards, unlock achievements, and create your own quizzes. Explore Adventure Mode by progressing through challenges across multiple difficulty levels.",
+        quizloDescription2: "Play solo, against the clock, or compete online with friends. Climb global and friends leaderboards, unlock achievements, and create your own quizzes. Explore Adventure Mode by progressing through challenges across multiple difficulty levels. Android app in development.",
         quizloFeatures: "Features",
         quizloFeature1: "Play offline answering questions and/or competing in timetrials",
         quizloFeature2: "Hundreds of categories to choose from",
