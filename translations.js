@@ -19,7 +19,7 @@ const translations = {
         viewProject: "Ver Proyecto",
         tryIt: "¡Pruébala!",
         viewDemo: "Ver Demo",
-        soon: "Coming soon to AEscripts",
+        soon: "Próximamente",
         comingSoon: "Próximamente",
         
         // Short descriptions for index page
@@ -120,7 +120,7 @@ const translations = {
         viewProject: "View Project",
         tryIt: "Try it!",
         viewDemo: "View Demo",
-        soon: "Coming soon to AEscripts",
+        soon: "Coming soon",
         comingSoon: "Coming soon",
         
         // Short descriptions for index page
