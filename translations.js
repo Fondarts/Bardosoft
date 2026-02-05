@@ -20,6 +20,7 @@ const translations = {
         tryIt: "¡Pruébala!",
         viewDemo: "Ver Demo",
         soon: "Coming soon to AEscripts",
+        comingSoon: "Próximamente",
         
         // Short descriptions for index page
         horariosShortDesc: "Programación integral de personal para retail moderno.",
@@ -120,6 +121,7 @@ const translations = {
         tryIt: "Try it!",
         viewDemo: "View Demo",
         soon: "Coming soon to AEscripts",
+        comingSoon: "Coming soon",
         
         // Short descriptions for index page
         horariosShortDesc: "All-in-one workforce scheduling for modern retail.",
